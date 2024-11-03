@@ -1,9 +1,0 @@
-digest: 99dca20d
-name: dataset
-profile: '{"features_shape": [404, 14], "features_size": 5656, "features_nbytes":
-  45248}'
-schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
-  {\"dtype\": \"float64\", \"shape\": [-1, 14]}}]", "targets": null}}'
-source: '{"tags": {"mlflow.user": "Jannik", "mlflow.source.name": "train_ridge.py",
-  "mlflow.source.type": "LOCAL"}}'
-source_type: code

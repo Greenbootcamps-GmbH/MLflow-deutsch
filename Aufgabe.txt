@@ -1,0 +1,15 @@
+### Ergänze unser kleines Machine Learning Projekt mit einem neuen Modell ###
+
+Neues Modell: Ridge Regression von Sklearn.
+
+Orientiere dich ganz einfach an der Implementierung des ElasticNets Modells.
+
+Benutze die Parameter für die Ridge Regression in params.py.
+
+Achte darauf, den Namen des neuen Experiments sowie den Entry Point zu ändern in run.py.
+Zusätzlich muss der neue Entry Point in MLproject ergänzt werden.
+
+
+Vergleich die Ergebnisse dieses Experiments mit dem vorherigen.
+
+

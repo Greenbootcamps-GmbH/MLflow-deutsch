@@ -2,8 +2,10 @@ import mlflow
 
 # Definiert den Namen des Experiments in MLflow und den Entry-Point des MLproject
 
-experiment_name = "ElasticNet"  
-entry_point = "Training-Elastic-Net"   
+# experiment_name = "ElasticNet"  
+# entry_point = "Training-Elastic-Net"   
+experiment_name = "Ridge"
+entry_point = "Training-Ridge"
 
 # Startet ein MLflow-Projekt basierend auf dem angegebenen Einstiegspunkt und Experimentnamen
 mlflow.projects.run(

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Jannik/IMSP/MLFlow-v2/housing-prices-v2/mlruns/185309588412465899/e16ab4fb7f2a435896e3041ed6a3a208/artifacts
+end_time: 1730672778294
+entry_point_name: ''
+experiment_id: '185309588412465899'
+lifecycle_stage: active
+run_id: e16ab4fb7f2a435896e3041ed6a3a208
+run_name: bemused-foal-625
+run_uuid: e16ab4fb7f2a435896e3041ed6a3a208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730672774533
+status: 3
+tags: []
+user_id: Jannik

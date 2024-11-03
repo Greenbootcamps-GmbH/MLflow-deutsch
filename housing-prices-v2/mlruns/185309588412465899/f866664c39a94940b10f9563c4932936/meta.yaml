@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Jannik/IMSP/MLFlow-v2/housing-prices-v2/mlruns/185309588412465899/f866664c39a94940b10f9563c4932936/artifacts
+end_time: 1730672763714
+entry_point_name: ''
+experiment_id: '185309588412465899'
+lifecycle_stage: active
+run_id: f866664c39a94940b10f9563c4932936
+run_name: rogue-shad-54
+run_uuid: f866664c39a94940b10f9563c4932936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730672760295
+status: 3
+tags: []
+user_id: Jannik

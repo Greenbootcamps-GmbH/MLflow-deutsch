@@ -1,0 +1,7 @@
+name: "Housing prices prediction"
+python_env: python_env.yaml
+entry_points:
+    Training-Elastic-Net:
+        command: "python train_elastic.py"
+    Training-Ridge:
+        command: "python train_ridge.py"

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Jannik/IMSP/MLFlow-v2/housing-prices-v2/mlruns/185309588412465899/31d340ee112b4758aa04124db6834870/artifacts
+end_time: 1730672782139
+entry_point_name: ''
+experiment_id: '185309588412465899'
+lifecycle_stage: active
+run_id: 31d340ee112b4758aa04124db6834870
+run_name: mysterious-crab-116
+run_uuid: 31d340ee112b4758aa04124db6834870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730672778317
+status: 3
+tags: []
+user_id: Jannik

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Jannik/IMSP/MLFlow-v2/housing-prices-v2/mlruns/425949963414772976/4f16a873a6bb4ea1af891899a40b4420/artifacts
+end_time: 1730673933075
+entry_point_name: ''
+experiment_id: '425949963414772976'
+lifecycle_stage: active
+run_id: 4f16a873a6bb4ea1af891899a40b4420
+run_name: intelligent-wasp-468
+run_uuid: 4f16a873a6bb4ea1af891899a40b4420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730673903379
+status: 3
+tags: []
+user_id: Jannik

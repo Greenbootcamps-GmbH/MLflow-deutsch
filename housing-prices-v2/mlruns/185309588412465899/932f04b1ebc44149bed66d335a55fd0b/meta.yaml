@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Jannik/IMSP/MLFlow-v2/housing-prices-v2/mlruns/185309588412465899/932f04b1ebc44149bed66d335a55fd0b/artifacts
+end_time: 1730673000011
+entry_point_name: ''
+experiment_id: '185309588412465899'
+lifecycle_stage: active
+run_id: 932f04b1ebc44149bed66d335a55fd0b
+run_name: victorious-koi-761
+run_uuid: 932f04b1ebc44149bed66d335a55fd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730672995669
+status: 3
+tags: []
+user_id: Jannik
